@@ -1,0 +1,27 @@
+{
+  "name": "pixi-viewport-template",
+  "version": "1.0.0",
+  "description": null,
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "1.12.5",
+    "pixi-viewport": "5.0.1",
+    "pixi.js": "7.2.3"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "typescript": "4.4.4"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": [
+    "viewport",
+    "pixi viewport",
+    "pixi"
+  ]
+}
